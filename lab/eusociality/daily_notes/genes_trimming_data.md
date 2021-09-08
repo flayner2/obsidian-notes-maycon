@@ -3,7 +3,7 @@
 ## Low rate
 - **7764**: removed;
 - **6438**: removed the first 9 bases;
-- **9927**: removed the first 30 bases and some 3' bases;
+- **9827**: removed the first 30 bases and some 3' bases;
 - **10687**: removed the first 120 bases (including the start codon due to low quality), removed from base 338 to 378;
 - **11582**: no changes;
 - **12100**: removed 15 bases at the end;
