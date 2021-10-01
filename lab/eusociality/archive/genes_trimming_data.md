@@ -1,0 +1,34 @@
+# Done in: 2021-08-26
+
+## Low rate
+- **7764**: removed;
+- **6438**: removed the first 9 bases;
+- **9827**: removed the first 30 bases and some 3' bases;
+- **10687**: removed the first 120 bases (including the start codon due to low quality), removed from base 338 to 378;
+- **11582**: no changes;
+- **12100**: removed 15 bases at the end;
+- **15152**: no changes;
+- **15656**: ask Raul;
+- **15773**: removed the first 21 bases;
+- **15909**: removed the first 81 bases, removed from base 731 to 739;
+- **17317**: no changes;
+- **19260**: removed the first 30 bases, check with Raul;
+- **20450**: removed the first 84 bases;
+- **20980**: ask Raul;
+- **22853**: removed the first 105 bases;
+- **22903**: removed the first 27 bases
+- **23430**: no changes;
+- **23917**: removed the first 123 bases;
+- **24053**: ask Raul;
+- **24551**: no changes;
+- **24877**: removed the first 12 bases and the last 19 bases;
+- **25129**: removed the first 36 bases;
+- **25185**: removed the first 261 bases, ask Raul and show the original;
+- **26510**: removed;
+- **26814**: no changes;
+- **27154**: ask Raul;
+- **27781**: removed the first 99 bases;
+- **28301**: no changes;
+- **28474**: removed the first 6 bases;
+- **28850**: ask Raul;
+- **31483**: ask Raul.
