@@ -12,4 +12,7 @@
 	- There's one other Braconidae in this set, *M. demolitor*, not from the same subfamily, and whose median $CpG_{O/E}$ value is $\approx 0.95$;
 		- This species is also a parasite, but seems to target specifically species from the order Lepidoptera;
 	- All of the above facts could account for the lower median $CpG_{O/E}$ in *F. arisanus* and *D. alloeum* being due to a common evolutionary origin (a phylogenetic signal, and not an evidence of common function);
-- Even though the median $CpG_{O/E}$ in *C. cinctus* is lower than in *A. cephalotes*, the mTOR pathway genes are enriched among the overmethylated genes in the ant compared with the sawlfy (comparing the $log_2$ difference of $CpG_{O/E}$ values between both)
+- Even though the median $CpG_{O/E}$ in *C. cinctus* is lower than in *A. cephalotes*, the mTOR pathway genes are enriched among the overmethylated genes in the ant compared with the sawlfy (comparing the $log_2$ difference of $CpG_{O/E}$ values between both);
+- Take a look at *dsx* NP_001104725 and its domain PF08828, which is absent in social species for some reason (but appears in an old annotation file: `work/komodo_inputs/old/old_hymenoptera/komodo_input_hymenoptera_pfam/GCF_003254395`);
+	- Take this gene and find the homologs in all Hymenoptera (and ants as well) and check the basic stats: alignment, conservation in solitary an eusocial, positive selection tests, etc.
+	- The OG for this gene is OG0009093 and it is absent in a bunch of ants.
