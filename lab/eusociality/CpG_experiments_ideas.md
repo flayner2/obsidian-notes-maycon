@@ -16,3 +16,16 @@
 - Take a look at *dsx* NP_001104725 and its domain PF08828, which is absent in social species for some reason (but appears in an old annotation file: `work/komodo_inputs/old/old_hymenoptera/komodo_input_hymenoptera_pfam/GCF_003254395`);
 	- Take this gene and find the homologs in all Hymenoptera (and ants as well) and check the basic stats: alignment, conservation in solitary an eusocial, positive selection tests, etc.
 	- The OG for this gene is OG0009093 and it is absent in a bunch of ants.
+
+# Paper
+## Figuras principais
+1. Distribuição do CpG OR nas cinco espécies iniciais
+2. Scatterplots pras comparações de CpG OR dos ortólogos entre Formiga X sawfly e Abelha x sawfly (colorindo/labelling os pontinhos da via mTOR)
+3. Análise de enriquecimento dos seguintes grupos de genes: Amel over/Amel under/Aros over/Aros under
+4. Análise de enriquecimento dos seguintes grupos de genes: overmethylated em Amel x Aros / overmethylated em Acep x Ccin
+5. boxplots de um exemplo de gene mTOR demonstrando os valores de A) CpG OR; B) (CpG OR gene) - (CpG OR mediana); 3) CpG OR percentile
+6. Árvore filogenética das espécies analisadas (talvez essa seja a figura 1, na verdade)
+## Figuras suplementares
+1. Distribuição do CpG OR em todas as espécies
+2. Boxplots dos demais genes
+3. Boxplot com o percentile de todos os genes da via mTOR enriquecidos (talvez essa seja uma figura principal tb)
