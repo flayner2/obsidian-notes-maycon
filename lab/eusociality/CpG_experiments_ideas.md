@@ -23,9 +23,16 @@
 2. Scatterplots pras comparações de CpG OR dos ortólogos entre Formiga X sawfly e Abelha x sawfly (colorindo/labelling os pontinhos da via mTOR)
 3. Análise de enriquecimento dos seguintes grupos de genes: Amel over/Amel under/Aros over/Aros under
 4. Análise de enriquecimento dos seguintes grupos de genes: overmethylated em Amel x Aros / overmethylated em Acep x Ccin
-5. boxplots de um exemplo de gene mTOR demonstrando os valores de A) CpG OR; B) (CpG OR gene) - (CpG OR mediana); 3) CpG OR percentile
+5. boxplots de um exemplo de gene mTOR demonstrando os valores de A) CpG OR; B) (CpG OR gene) - (CpG OR mediana); 3) CpG OR percentile (OG0006916)
 6. Árvore filogenética das espécies analisadas (talvez essa seja a figura 1, na verdade)
 ## Figuras suplementares
 1. Distribuição do CpG OR em todas as espécies
 2. Boxplots dos demais genes
 3. Boxplot com o percentile de todos os genes da via mTOR enriquecidos (talvez essa seja uma figura principal tb)
+
+## TODO
+- Maybe update the legend box position of Figure 2 (CpG density plots for aaacd) to be where the 6th pannel would be (below *D. melanogaster*, right to *At. rosae*);
+- Generate the labeled scatter plots for *A. mellifera* x *At. rosae* and *Att. cephalotes* and *C. cinctus*;
+- Generate a single figure with two pannels for the enrichment analysis in *A. mellifera* hyper and hypo (Figure 4a) and *At. rosae* hyper and hypo (Figure 4b) 
+- Generate a single figure for the enrichment analysis of the overmethylated *A. mellifera* genes compared to *At. rosae* (Figure 5a) and *Att. cephalotes* compared to *C. cinctus* (Figure 5b);
+- Assemble a figure containing the boxplots for the $CpG_{O/E}$, difference from median $CpG_{O/E}$ and percentile position of $CpG_{O/E}$ for the orthogroup OG0006916.
