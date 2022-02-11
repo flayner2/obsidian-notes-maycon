@@ -31,6 +31,7 @@
 3. Boxplot com o percentile de todos os genes da via mTOR enriquecidos (talvez essa seja uma figura principal tb)
 
 ## TODO
+- Take a look at the font sizes of the figures. Maybe will have to increase them;
 - Maybe update the legend box position of Figure 2 (CpG density plots for aaacd) to be where the 6th pannel would be (below *D. melanogaster*, right to *At. rosae*);
 - Generate the labeled scatter plots for *A. mellifera* x *At. rosae* and *Att. cephalotes* and *C. cinctus*;
 - Generate a single figure with two pannels for the enrichment analysis in *A. mellifera* hyper and hypo (Figure 4a) and *At. rosae* hyper and hypo (Figure 4b) 
