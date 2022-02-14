@@ -31,9 +31,9 @@
 3. Boxplot com o percentile de todos os genes da via mTOR enriquecidos (talvez essa seja uma figura principal tb)
 
 ## TODO
-- Take a look at the font sizes of the figures. Maybe will have to increase them;
-- Maybe update the legend box position of Figure 2 (CpG density plots for aaacd) to be where the 6th pannel would be (below *D. melanogaster*, right to *At. rosae*);
-- Generate the labeled scatter plots for *A. mellifera* x *At. rosae* and *Att. cephalotes* and *C. cinctus*;
-- Generate a single figure with two pannels for the enrichment analysis in *A. mellifera* hyper and hypo (Figure 4a) and *At. rosae* hyper and hypo (Figure 4b) 
-- Generate a single figure for the enrichment analysis of the overmethylated *A. mellifera* genes compared to *At. rosae* (Figure 5a) and *Att. cephalotes* compared to *C. cinctus* (Figure 5b);
-- Assemble a figure containing the boxplots for the $CpG_{O/E}$, difference from median $CpG_{O/E}$ and percentile position of $CpG_{O/E}$ for the orthogroup OG0006916.
+- [x] Take a look at the font sizes of the figures. Maybe will have to increase them;
+- [x]  Maybe update the legend box position of Figure 2 (CpG density plots for aaacd) to be where the 6th pannel would be (below *D. melanogaster*, right to *At. rosae*);
+- [ ] Generate the labeled scatter plots for *A. mellifera* x *At. rosae* and *Att. cephalotes* and *C. cinctus*;
+- [ ] Generate a single figure with two pannels for the enrichment analysis in *A. mellifera* hyper and hypo (Figure 4a) and *At. rosae* hyper and hypo (Figure 4b) 
+- [ ] Generate a single figure for the enrichment analysis of the overmethylated *A. mellifera* genes compared to *At. rosae* (Figure 5a) and *Att. cephalotes* compared to *C. cinctus* (Figure 5b);
+- [x] Assemble a figure containing the boxplots for the $CpG_{O/E}$, difference from median $CpG_{O/E}$ and percentile position of $CpG_{O/E}$ for the orthogroup OG0006916.
