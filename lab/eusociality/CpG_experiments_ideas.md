@@ -37,7 +37,7 @@
 - [ ] Generate a single figure with two pannels for the enrichment analysis in *A. mellifera* hyper and hypo (Figure 4a) and *At. rosae* hyper and hypo (Figure 4b) 
 - [ ] Generate a single figure for the enrichment analysis of the overmethylated *A. mellifera* genes compared to *At. rosae* (Figure 5a) and *Att. cephalotes* compared to *C. cinctus* (Figure 5b);
 - [x] Assemble a figure containing the boxplots for the $CpG_{O/E}$, difference from median $CpG_{O/E}$ and percentile position of $CpG_{O/E}$ for the orthogroup OG0006916;
-- [ ] Add a heatmap to the tree, with the z-score for $CpG_{O/E}$, diff to median and percentile position for OG0006916 and OG0003581;
+- [x] Add a heatmap to the tree, with the z-score for $CpG_{O/E}$, diff to median and percentile position for OG0006916 and OG0003581;
 - [ ] Create two new sets of boxplot triplets (same as the previous one for OG0006916) for OG0003581 and OG0006916 but adding the p-values and q-values for each metric as a text label;
 - [ ] Add results and discussion for the ANOVA analysis, focusing on OG0006916 - NP_001259636.1 (wacky) - significant after FDR - and slightly less so on OG0003581 - NP_732114.1 (Akt1) - loses significance after FDR.
 
@@ -53,3 +53,7 @@
 ## Discussion
 - o único grupo que passa no phylogenetic ANOVA pós-correção de múltiplas hipóteses é o OG0006916 - NP_001259636.1 (wacky);
 - O outro que é significativo, mas deixa de ser quanto fazemos o FDR é o OG0003581 - NP_732114.1 (Akt1)
+
+## Refs
+- [Akt1](https://www.nature.com/articles/srep18794)
+- [wacky](https://pubmed.ncbi.nlm.nih.gov/26757981/)
