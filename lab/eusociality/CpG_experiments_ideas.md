@@ -40,7 +40,11 @@
 - [x] Add a heatmap to the tree, with the z-score for $CpG_{O/E}$, diff to median and percentile position for OG0006916 and OG0003581;
 - [x] Create two new sets of boxplot triplets (same as the previous one for OG0006916) for OG0003581 and OG0006916 but adding the p-values and q-values for each metric as a text label;
 - [ ] Add results and discussion for the ANOVA analysis, focusing on OG0006916 - NP_001259636.1 (wacky) - significant after FDR - and slightly less so on OG0003581 - NP_732114.1 (Akt1) - loses significance after FDR;
-- [ ] Create a tree figure without the heatmaps but with a matrix showing the state of the DNMT ezymes.
+- [ ] Create a tree figure without the heatmaps but with a matrix showing the state of the DNMT ezymes;
+- [ ] Create two scatter plots to evaluate the correlation between $CpG_{O/E}$ and diff from median, and between $CpG_{O/E}$ and percentile (per gene), for the 5 studied species (with orthologs between all 5) (make a q-q plot);
+- [ ] Metadata sheet;
+- [ ] Table with gene ids for the tree;
+- [ ] Put the medians of each distribution onto the overlapped density plots.
 
 ## Parte Chico
 - Webgestalt
@@ -58,3 +62,9 @@
 ## Refs
 - [Akt1](https://www.nature.com/articles/srep18794)
 - [wacky](https://pubmed.ncbi.nlm.nih.gov/26757981/)
+
+## Pra mandar pro chico
+- Os 3 density plots com todo mundo;
+- As figuras de overlap (fazer um painel tbm);
+- Os scatter com todas as métricas;
+- As comparações entre as métricas.
