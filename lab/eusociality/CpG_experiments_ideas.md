@@ -44,7 +44,7 @@
 - [ ] Create two scatter plots to evaluate the correlation between $CpG_{O/E}$ and diff from median, and between $CpG_{O/E}$ and percentile (per gene), for the 5 studied species (with orthologs between all 5) (make a q-q plot);
 - [ ] Metadata sheet;
 - [ ] Table with gene ids for the tree;
-- [ ] Put the medians of each distribution onto the overlapped density plots.
+- [x] Put the medians of each distribution onto the overlapped density plots.
 
 ## Parte Chico
 - Webgestalt
@@ -62,9 +62,23 @@
 ## Refs
 - [Akt1](https://www.nature.com/articles/srep18794)
 - [wacky](https://pubmed.ncbi.nlm.nih.gov/26757981/)
+- [Dnmt3 *A. rosae*  and *O. abietinus* (supplementary material)](https://academic.oup.com/gbe/article/12/7/1099/5842140?login=true#206041224)
+- [Dnmt3 *B. impatiens* (supplementary material)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0623-3)
+- [Dnmt3 *A. colombica* (classified as homologous to *A. mellifera* dnmt3)](http://hymenopteramine-v15.rnet.missouri.edu/hymenopteramine/report.do?id=99315613)
+- [Dnmt3 *C. floridanus* (classified as homologous to *A. mellifera* dnmt3)](http://hymenopteramine-v15.rnet.missouri.edu/hymenopteramine/report.do?id=115119741)
+- [Dnmt3 *C. cinctus* (classified as homologous to *A. mellifera* dnmt3)](http://hymenopteramine-v15.rnet.missouri.edu/hymenopteramine/report.do?id=117715675)
+- [Dnmt3 *C. calcarata* (classified as homologous to *A. mellifera* dnmt3)](http://hymenopteramine-v15.rnet.missouri.edu/hymenopteramine/report.do?id=120128252)
+- [Dnmt3 *C. floridanum* (seems to actually exist, but is truncated and possibli non-functional)](https://ir.lib.uwo.ca/etd/4920/)
+- [Dnmt3 *D. quadriceps* and *S. invicta* (seems to actually exist)](https://www.pnas.org/doi/full/10.1073/pnas.1515937112)
+- [Dnmt3 *D. novaeangliae* and *E. mexicana* and *M. rotundata* (seems to actually exist)](https://www.pnas.org/doi/full/10.1073/pnas.1515937112)
+- [Dnmt3 *H. saltator* (ref 1)](https://www.pnas.org/doi/full/10.1073/pnas.1515937112)and [(ref 2)](https://www.science.org/doi/abs/10.1126/science.1192428)
+- [Dnmt3 *L. humile* (ref 1)](https://www.pnas.org/doi/full/10.1073/pnas.1515937112)and [(ref 2)](https://www.pnas.org/doi/full/10.1073/pnas.1008617108)
+- [Dnmt1 *M. demolitor* (seems to actually exist)](https://www.mdpi.com/2075-4450/11/2/121/htm)
+- [Dnmt1 and dnmt3 *P. barbatus* (seems to actually exist)](https://www.pnas.org/doi/full/10.1073/pnas.1007901108)
+- [Dnmt1 and Dnmt3 *T. pretiosum*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5960102/)
 
 ## Pra mandar pro chico
-- Os 3 density plots com todo mundo;
-- As figuras de overlap (fazer um painel tbm);
-- Os scatter com todas as métricas;
+- ~~Os 3 density plots com todo mundo;~~
+- ~~As figuras de overlap (fazer um painel tbm);~~
+- ~~Os scatter com todas as métricas;~~
 - As comparações entre as métricas.
