@@ -33,18 +33,20 @@
 ## TODO
 - [x] Take a look at the font sizes of the figures. Maybe will have to increase them;
 - [x]  Maybe update the legend box position of Figure 2 (CpG density plots for aaacd) to be where the 6th pannel would be (below *D. melanogaster*, right to *At. rosae*);
-- [ ] Generate the labeled scatter plots for *A. mellifera* x *At. rosae* and *Att. cephalotes* and *C. cinctus* (use `ggrepel`);
+- [x] Generate the labeled scatter plots for *A. mellifera* x *At. rosae* and *Att. cephalotes* and *C. cinctus* (use `ggrepel`);
 - [x] Generate a single figure with two pannels for the enrichment analysis in *A. mellifera* hyper and hypo (Figure 4a) and *At. rosae* hyper and hypo (Figure 4b) (==Chico==);
 - [x] Generate a single figure for the enrichment analysis of the overmethylated *A. mellifera* genes compared to *At. rosae* (Figure 5a) and *Att. cephalotes* compared to *C. cinctus* (Figure 5b) (==Chico==);
 - [x] Assemble a figure containing the boxplots for the $CpG_{O/E}$, difference from median $CpG_{O/E}$ and percentile position of $CpG_{O/E}$ for the orthogroup OG0006916;
 - [x] Add a heatmap to the tree, with the z-score for $CpG_{O/E}$, diff to median and percentile position for OG0006916 and OG0003581;
 - [x] Create two new sets of boxplot triplets (same as the previous one for OG0006916) for OG0003581 and OG0006916 but adding the p-values and q-values for each metric as a text label;
 - [ ] Add results and discussion for the ANOVA analysis, focusing on OG0006916 - NP_001259636.1 (wacky) - significant after FDR - and slightly less so on OG0003581 - NP_732114.1 (Akt1) - loses significance after FDR;
-- [ ] Create a tree figure without the heatmaps but with a matrix showing the state of the DNMT ezymes;
-- [ ] Create two scatter plots to evaluate the correlation between $CpG_{O/E}$ and diff from median, and between $CpG_{O/E}$ and percentile (per gene), for the 5 studied species (with orthologs between all 5) (make a q-q plot);
+- [x] Create a tree figure without the heatmaps but with a matrix showing the state of the DNMT ezymes (also create a figure with both the heatmaps and the matrix);
+- [x] Create two scatter plots to evaluate the correlation between $CpG_{O/E}$ and diff from median, and between $CpG_{O/E}$ and percentile (per gene), for the 5 studied species (with orthologs between all 5) (make a q-q plot);
 - [ ] Metadata sheet;
 - [ ] Table with gene ids for the tree;
-- [x] Put the medians of each distribution onto the overlapped density plots.
+- [x] Put the medians of each distribution onto the overlapped density plots;
+- [ ] Organize the data and code for reproductibility;
+- [ ] Rewrite the paper to follow the order discussed with Chico.
 
 ## Parte Chico
 - Webgestalt
