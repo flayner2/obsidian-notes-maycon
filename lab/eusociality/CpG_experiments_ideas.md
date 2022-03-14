@@ -9,6 +9,7 @@
 - Two solitary wasps, *F. arisanus* and *D. alloeum* have low median $CpG_{O/E}$ values ($m \le 0.79$);
 	- They are both from the family Braconidae, subfamily Opiinae;
 		- They are bot parasites and apparently with specific hosts from the fruit fly family Tephritidae;
+		- They both also don't possess a copy of *Dnmt1*.
 	- There's one other Braconidae in this set, *M. demolitor*, not from the same subfamily, and whose median $CpG_{O/E}$ value is $\approx 0.95$;
 		- This species is also a parasite, but seems to target specifically species from the order Lepidoptera;
 	- All of the above facts could account for the lower median $CpG_{O/E}$ in *F. arisanus* and *D. alloeum* being due to a common evolutionary origin (a phylogenetic signal, and not an evidence of common function);
@@ -46,7 +47,8 @@
 - [ ] Table with gene ids for the tree;
 - [x] Put the medians of each distribution onto the overlapped density plots;
 - [ ] Organize the data and code for reproductibility;
-- [ ] Rewrite the paper to follow the order discussed with Chico.
+- [ ] Rewrite the paper to follow the order discussed with Chico;
+- [ ] Make the scatterplots (*amel vs aros* and *acep vs ccin*) a single panel.
 
 ## Parte Chico
 - Webgestalt
