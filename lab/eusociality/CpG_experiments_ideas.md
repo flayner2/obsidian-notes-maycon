@@ -40,15 +40,15 @@
 - [x] Assemble a figure containing the boxplots for the $CpG_{O/E}$, difference from median $CpG_{O/E}$ and percentile position of $CpG_{O/E}$ for the orthogroup OG0006916;
 - [x] Add a heatmap to the tree, with the z-score for $CpG_{O/E}$, diff to median and percentile position for OG0006916 and OG0003581;
 - [x] Create two new sets of boxplot triplets (same as the previous one for OG0006916) for OG0003581 and OG0006916 but adding the p-values and q-values for each metric as a text label;
-- [ ] Add results and discussion for the ANOVA analysis, focusing on OG0006916 - NP_001259636.1 (wacky) - significant after FDR - and slightly less so on OG0003581 - NP_732114.1 (Akt1) - loses significance after FDR;
+- [x] Add results and discussion for the ANOVA analysis, focusing on OG0006916 - NP_001259636.1 (wacky) - significant after FDR - and slightly less so on OG0003581 - NP_732114.1 (Akt1) - loses significance after FDR;
 - [x] Create a tree figure without the heatmaps but with a matrix showing the state of the DNMT ezymes (also create a figure with both the heatmaps and the matrix);
 - [x] Create two scatter plots to evaluate the correlation between $CpG_{O/E}$ and diff from median, and between $CpG_{O/E}$ and percentile (per gene), for the 5 studied species (with orthologs between all 5) (make a q-q plot);
 - [ ] Metadata sheet;
 - [ ] Table with gene ids for the tree;
 - [x] Put the medians of each distribution onto the overlapped density plots;
 - [ ] Organize the data and code for reproductibility;
-- [ ] Rewrite the paper to follow the order discussed with Chico;
-- [ ] Make the scatterplots (*amel vs aros* and *acep vs ccin*) a single panel.
+- [x] Rewrite the paper to follow the order discussed with Chico;
+- [x] ~~Make the scatterplots (*amel vs aros* and *acep vs ccin*) a single panel.~~ (ignore this for now).
 
 ## Parte Chico
 - Webgestalt
@@ -85,4 +85,13 @@
 - ~~Os 3 density plots com todo mundo;~~
 - ~~As figuras de overlap (fazer um painel tbm);~~
 - ~~Os scatter com todas as métricas;~~
-- As comparações entre as métricas.
+- ~~As comparações entre as métricas.~~
+
+## Paper corrections
+- ~~Criar o density AAACD pra diff to median, e fazer um painel junto com o do raw cpg~~.
+- ~~Definir o odds ratios na intro tbm~~.
+- Introdução, falar que o processo de hipometilação parece ser "ativo", parece existir algo que mantém o conteúdo CG (citando o bewick), falando dos problemas das diferenças nas medianas, falando do status geral de um gene.
+- Estudar dialética. 
+- ~~Figura 6 talvez vire suplementar. Fazer uma figura com apenas os 14 genes com overlap~~.
+- Comentar que a gente "ajudou" o raw odds (na intro).
+- Dar uma melhorada no título (Accounting for genomewise methylation levels reveals)
