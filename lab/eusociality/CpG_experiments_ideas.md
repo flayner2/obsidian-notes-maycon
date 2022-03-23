@@ -48,7 +48,8 @@
 - [x] Put the medians of each distribution onto the overlapped density plots;
 - [ ] Organize the data and code for reproductibility;
 - [x] Rewrite the paper to follow the order discussed with Chico;
-- [x] ~~Make the scatterplots (*amel vs aros* and *acep vs ccin*) a single panel.~~ (ignore this for now).
+- [x] ~~Make the scatterplots (*amel vs aros* and *acep vs ccin*) a single panel~~ (ignore this for now);
+- [ ] Generate the BUSCO figure (maybe...).
 
 ## Parte Chico
 - Webgestalt
@@ -90,8 +91,9 @@
 ## Paper corrections
 - ~~Criar o density AAACD pra diff to median, e fazer um painel junto com o do raw cpg~~.
 - ~~Definir o odds ratios na intro tbm~~.
-- Introdução, falar que o processo de hipometilação parece ser "ativo", parece existir algo que mantém o conteúdo CG (citando o bewick), falando dos problemas das diferenças nas medianas, falando do status geral de um gene.
+- ~~Introdução, falar que o processo de hipometilação parece ser "ativo", parece existir algo que mantém o conteúdo CG (citando o bewick), falando dos problemas das diferenças nas medianas, falando do status geral de um gene~~.
 - Estudar dialética. 
 - ~~Figura 6 talvez vire suplementar. Fazer uma figura com apenas os 14 genes com overlap~~.
 - Comentar que a gente "ajudou" o raw odds (na intro).
 - Dar uma melhorada no título (Accounting for genomewise methylation levels reveals)
+- Citar isso mais na frente no paper: "Interestingly, those two species also possess some of the lowest median values of $CpG_{O/E}$ (0.7729 and 0.7984).", falando sobre as Opiinae que não possuem Dnmt1
